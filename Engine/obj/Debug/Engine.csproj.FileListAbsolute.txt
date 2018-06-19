@@ -1,0 +1,5 @@
+C:\Users\SDE-03062\source\repos\SuperAdventure\Engine\bin\Debug\Engine.dll
+C:\Users\SDE-03062\source\repos\SuperAdventure\Engine\bin\Debug\Engine.pdb
+C:\Users\SDE-03062\source\repos\SuperAdventure\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\SDE-03062\source\repos\SuperAdventure\Engine\obj\Debug\Engine.dll
+C:\Users\SDE-03062\source\repos\SuperAdventure\Engine\obj\Debug\Engine.pdb
